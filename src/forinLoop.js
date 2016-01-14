@@ -1,3 +1,5 @@
+//NAv-2 changes for transition state change
+
 var aProperty; 
 document.write("Navigator Object Properties<br /> "); 
 for (aProperty in navigator) 
